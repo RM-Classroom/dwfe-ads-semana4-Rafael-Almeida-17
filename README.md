@@ -9,7 +9,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: Rafael Almeida Ferreira
-- Matricula: 1660700
+- Matricula: 924698
 - Proposta de projeto escolhida: Página Web sobre o Liverpool FC e suas notícias.
 - Breve descrição sobre seu projeto: Um site de notícias diárias do Liverpool mostrando também seus últimos jogos, assim como elenco, títulos e história.
 
