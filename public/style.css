@@ -177,7 +177,7 @@ main h1 {
 /* Rodapé */
 
 footer {
-    background: red;
+    background: #c8102e;
     color: white;
     padding: 20px;
 }
@@ -185,6 +185,10 @@ footer {
     display: flex;
     justify-content: space-around;
     margin-bottom: 15px;
+}
+
+.rodape h1 {
+    color: gold;
 }
 
 .rodape h3 {
