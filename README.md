@@ -19,6 +19,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 ![wireframe](<Wireframe Liverpool.jpg>)
+![Wireframe Liverpool](https://github.com/user-attachments/assets/658acd8d-8faa-4c40-99b4-ef91d122d78d)
+
 
 
 
@@ -26,3 +28,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 ![home-page](image.png)
+<img width="1599" height="748" alt="image" src="https://github.com/user-attachments/assets/8b7674fe-251b-4be7-9fcf-3677745cc92c" />
+
