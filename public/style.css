@@ -82,10 +82,54 @@ footer {
 
 /* Conteúdo */
 
-/*Notícias */
+/* Banner */
+
+.banner {
+    margin-bottom: 40px;
+}
+
+.banner img {
+    display: block;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.banner h2 {
+    font-weight: bolder;
+    color: darkseagreen;
+    padding-top: 20px;
+}
+
+.banner p {
+    padding-top: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+.intro h2 {
+    font-weight: bolder;
+    color: darkseagreen;
+}
+
+.intro p {
+    padding-top: 5px;
+    font-weight: 700;
+    color: white;
+    width: 85%;
+}
+
+/* Notícias */
 
 .noticias {
     margin-bottom: 40px;
+}
+
+.titulo1 {
+    margin-top: 190px;
 }
 
 main h1 {
